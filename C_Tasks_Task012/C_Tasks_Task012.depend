@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613843904 source:c:\users\ahmed hassan\documents\codeblocksprojects\c_tasks_task012\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
